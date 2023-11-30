@@ -26,6 +26,5 @@ function PlayerCollision(){
 	y += vSpeed;
 	
 	
-	
 	return _collision;
 }
