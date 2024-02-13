@@ -29,6 +29,7 @@
     {"name":"tTiles","order":1,"path":"tilesets/tTiles/tTiles.yy",},
     {"name":"ScreenShake","order":4,"path":"scripts/ScreenShake/ScreenShake.yy",},
     {"name":"sPlayerRoll","order":3,"path":"sprites/sPlayerRoll/sPlayerRoll.yy",},
+    {"name":"NewTextBox","order":5,"path":"scripts/NewTextBox/NewTextBox.yy",},
     {"name":"PlayerCollision","order":2,"path":"scripts/PlayerCollision/PlayerCollision.yy",},
     {"name":"sTiles","order":4,"path":"sprites/sTiles/sTiles.yy",},
     {"name":"oText","order":4,"path":"objects/oText/oText.yy",},

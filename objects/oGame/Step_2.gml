@@ -1,5 +1,9 @@
 /// @desc Pause The Game
 
+if(gamepad_button_check_pressed(0,gp_stickr) || gamepad_button_check_pressed(4,gp_stickr)) {
+	game_restart();
+}
+
 if (keyboard_check_pressed(vk_escape))
 {
 	global.gamePaused = !global.gamePaused;
