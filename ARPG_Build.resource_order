@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -17,22 +17,22 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
-    {"name":"MACROS","order":1,"path":"scripts/MACROS/MACROS.yy",},
+  "ResourceOrderSettings":[
     {"name":"oGame","order":1,"path":"objects/oGame/oGame.yy",},
+    {"name":"oText","order":4,"path":"objects/oText/oText.yy",},
     {"name":"oTextQueued","order":5,"path":"objects/oTextQueued/oTextQueued.yy",},
-    {"name":"sCol","order":2,"path":"sprites/sCol/sCol.yy",},
     {"name":"rInit","order":2,"path":"rooms/rInit/rInit.yy",},
-    {"name":"sPlayerRun","order":1,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
-    {"name":"PlayerStateMachine","order":3,"path":"scripts/PlayerStateMachine/PlayerStateMachine.yy",},
     {"name":"rVillage","order":1,"path":"rooms/rVillage/rVillage.yy",},
-    {"name":"tTiles","order":1,"path":"tilesets/tTiles/tTiles.yy",},
-    {"name":"ScreenShake","order":4,"path":"scripts/ScreenShake/ScreenShake.yy",},
-    {"name":"sPlayerRoll","order":3,"path":"sprites/sPlayerRoll/sPlayerRoll.yy",},
+    {"name":"MACROS","order":1,"path":"scripts/MACROS/MACROS.yy",},
     {"name":"NewTextBox","order":5,"path":"scripts/NewTextBox/NewTextBox.yy",},
     {"name":"PlayerCollision","order":2,"path":"scripts/PlayerCollision/PlayerCollision.yy",},
-    {"name":"sTiles","order":4,"path":"sprites/sTiles/sTiles.yy",},
-    {"name":"oText","order":4,"path":"objects/oText/oText.yy",},
+    {"name":"PlayerStateMachine","order":3,"path":"scripts/PlayerStateMachine/PlayerStateMachine.yy",},
+    {"name":"ScreenShake","order":4,"path":"scripts/ScreenShake/ScreenShake.yy",},
+    {"name":"sCol","order":2,"path":"sprites/sCol/sCol.yy",},
+    {"name":"sPlayerRoll","order":3,"path":"sprites/sPlayerRoll/sPlayerRoll.yy",},
+    {"name":"sPlayerRun","order":1,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
     {"name":"sTextBoxBg","order":5,"path":"sprites/sTextBoxBg/sTextBoxBg.yy",},
+    {"name":"sTiles","order":4,"path":"sprites/sTiles/sTiles.yy",},
+    {"name":"tTiles","order":1,"path":"tilesets/tTiles/tTiles.yy",},
   ],
 }
